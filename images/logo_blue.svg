@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #2196f3;
+      }
+    </style>
+  </defs>
+  <image id="Background" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApElEQVRYhe2WQQ6AIAwEq/HoK/ydL/J3vsJ7DSbrodIgEG01zEUxAZplcdsxM5MhveXmgQEv07K9uvE6j8fTjwIAlUERjEuR60il/SmgeSHXI1I5bb65ApcCQuW15x5DW/c7HqileaB5wK0Hklkgv5fiNgvOjqj1A+DuWZf2C/77AaB5Qsv51O35zn8APJEHMf6XBbnK+fVALqXK+ckCK2wVIKIdvKpQ7lVCP58AAAAASUVORK5CYII="/>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-1" d="M0,0H32V32H0V0ZM2,2V30H30V2H2ZM4,4H6V6H4V4ZM8,4H24V18H8V4ZM26,4h2V6H26V4ZM10,6V16H22V6H10ZM4,8H6v2H4V8ZM26,8h2v2H26V8ZM4,12H6v2H4V12Zm22,0h2v2H26V12ZM4,16H6v2H4V16Zm22,0h2v2H26V16ZM4,20H14v6H4V20Zm12,0H28v2H26v6H18V22H16V20ZM6,22v2h6V22H6Zm14,0v4h4V22H20Z"/>
+  <path id="Color_Fill_2" data-name="Color Fill 2" class="cls-2" d="M2,2H30V30H2V2ZM4,4V6H6V4H4ZM8,4V18H24V4H8ZM26,4V6h2V4H26ZM10,6H22V16H10V6ZM4,8v2H6V8H4ZM26,8v2h2V8H26ZM4,12v2H6V12H4Zm22,0v2h2V12H26ZM4,16v2H6V16H4Zm22,0v2h2V16H26ZM4,20v6H14V20H4Zm12,0v2h2v6h8V22h2V20H16ZM6,22h6v2H6V22Zm14,0h4v4H20V22Z"/>
+</svg>
